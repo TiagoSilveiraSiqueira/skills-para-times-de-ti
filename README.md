@@ -60,6 +60,8 @@ Peça, por exemplo: `/triagem-incidente` e forneça o cenário. A interface e a 
 
 ## Como avaliar uma resposta
 
+Para trabalhar com fatos reais já públicos, consulte [CASOS-PUBLICOS.md](CASOS-PUBLICOS.md). Os estudos vinculados indicam as fontes e diferenciam a informação disponível no início do incidente do conhecimento da análise posterior.
+
 Uma boa resposta separa fatos de hipóteses, identifica lacunas e permite que outra pessoa revise o raciocínio. Uma resposta longa ou confiante não comprova que o diagnóstico esteja correto.
 
 Os exemplos usam serviços, métricas e equipes inventados. Use apenas material fictício ou previamente autorizado e sem credenciais, dados pessoais ou detalhes internos. As skills produzem documentos; não alteram ambientes, enviam mensagens ou abrem chamados.
