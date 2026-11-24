@@ -1,0 +1,17 @@
+# Arquivos locais e credenciais: exemplos públicos não precisam deles.
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+*.log
+logs/
+private/
+local/
+local-data/
+__pycache__/
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db

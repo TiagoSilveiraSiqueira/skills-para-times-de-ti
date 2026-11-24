@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Skills para times de TI</title>
+  <desc id="banner-desc">Instruções reutilizáveis para runbooks, triagem e onboarding técnico. Banner azul escuro com detalhes em teal e documentos conectados.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081421" />
+      <stop offset="0.6" stop-color="#0c2134" />
+      <stop offset="1" stop-color="#103443" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#56dfcf" />
+      <stop offset="1" stop-color="#6eafff" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#83b5ca" opacity="0.12" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#background)" />
+  <rect x="780" y="0" width="420" height="300" rx="22" fill="url(#grid)" />
+  <path d="M808 0 L728 300" stroke="#b7e5ed" stroke-width="1" opacity="0.05" />
+  <circle cx="1057" cy="150" r="135" fill="#52d7c8" opacity="0.025" />
+  <circle cx="1057" cy="150" r="108" fill="none" stroke="#80c5d9" stroke-width="1" opacity="0.12" />
+  <circle cx="1057" cy="150" r="74" fill="none" stroke="#80c5d9" stroke-width="1" opacity="0.08" />
+
+  <rect x="66" y="43" width="5" height="22" rx="2.5" fill="#56dfcf" />
+  <text x="85" y="59" fill="#8eb7c7" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2">INSTRUÇÕES REUTILIZÁVEIS · TI</text>
+  <text x="64" y="124" fill="#f2f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-0.6">Skills para times de TI</text>
+  <text x="67" y="167" fill="#bad0e2" font-family="Segoe UI, Arial, sans-serif" font-size="23">Runbooks, triagem e onboarding técnico</text>
+  <rect x="67" y="197" width="354" height="3" rx="1.5" fill="url(#accent)" />
+  <text x="67" y="247" fill="#8eb7c7" font-family="Segoe UI, Arial, sans-serif" font-size="18">Aprender. Adaptar. Revisar.</text>
+
+  <g stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <rect x="943" y="68" width="105" height="130" rx="10" stroke-width="1.5" opacity="0.45" />
+    <path d="M963 99 H1009 M963 115 H1025 M963 131 H1001" stroke-width="1.5" opacity="0.45" />
+    <rect x="1005" y="91" width="105" height="130" rx="10" fill="#0e293b" stroke-width="2.3" opacity="0.95" />
+    <path d="M1026 122 H1088 M1026 140 H1088 M1026 158 H1066" stroke-width="1.5" opacity="0.8" />
+    <path d="M1027 186 L1035 194 L1052 176" stroke-width="2" />
+    <path d="M1058 221 V247 H1136 M944 198 V238 H989" stroke-width="1.5" opacity="0.6" />
+    <circle cx="1142" cy="247" r="5" stroke-width="1.5" />
+    <circle cx="995" cy="238" r="5" stroke-width="1.5" />
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="21.5" fill="none" stroke="#9fc9dd" stroke-opacity="0.1" />
+</svg>
